@@ -6,3 +6,5 @@ out*/review-nsfw/
 .publish-terms
 queries/*.err
 run.log
+out/review/*
+out/review-nsfw/

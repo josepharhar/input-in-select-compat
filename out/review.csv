@@ -1,0 +1,1015 @@
+idx,stratum,page,rating,method,note
+0,ancestor-desktop,https://casign.gfapki.com.cn/,not assessable,auto,HTTP 403
+1,ancestor-desktop,https://sunny.open-store.fun/,not assessable,auto,HTTP 403
+2,ancestor-desktop,https://www.niceairportxpress.com/,,manual,
+3,ancestor-desktop,https://akdsl.com/,not assessable,auto,load error: Page.goto: Timeout 30000ms exceeded.
+4,ancestor-desktop,https://www.kussmundcruises.de/,,manual,
+5,ancestor-desktop,https://www.coempregos.com.br/,,manual,
+6,ancestor-desktop,https://www.daga.cc/,,manual,
+7,ancestor-desktop,https://www.admi.de/,no visible change,auto,nsfw; A vs B within A vs A2 noise
+8,ancestor-desktop,https://www.emily.ua/,not assessable,auto,HTTP 403
+9,ancestor-desktop,https://www.lara.no/,,manual,
+10,ancestor-desktop,https://www.sandcastlecaribbean.com/,,manual,
+11,ancestor-desktop,https://us.growatt.com/,,manual,
+12,ancestor-desktop,https://onyx-circle.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+13,ancestor-desktop,https://www.doctorszone.in/,,manual,
+14,ancestor-desktop,https://www.185258.com/,,manual,
+15,ancestor-desktop,https://www.perfumedigital.es/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+16,ancestor-desktop,https://status-leasing.by/,no visible change,auto,A vs B within A vs A2 noise
+17,ancestor-desktop,https://www.voa.va.gov/,,manual,
+18,ancestor-desktop,https://www.seguros-camiones.com/,,manual,
+19,ancestor-desktop,https://telefonicacorreduria.es/,,manual,
+20,ancestor-desktop,https://sowil.rotasmart.com.br/,,manual,
+21,ancestor-desktop,https://www.helpinghandstrust.net/,no visible change,auto,nsfw; A vs B within A vs A2 noise
+22,ancestor-desktop,https://www.casanazareno.it/,,manual,
+23,ancestor-desktop,https://fo.hsu.edu.hk/,no visible change,auto,A vs B within A vs A2 noise
+24,ancestor-desktop,https://www.silverscreenportfolio.com/,,manual,
+25,ancestor-desktop,https://sdv.sk/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+26,ancestor-desktop,https://konkurs.pot.gov.pl/,,manual,
+27,ancestor-desktop,https://official.evangeluniversity.edu.ng/,,manual,
+28,ancestor-desktop,https://worldmusicgear.easy-myshop.jp/,,manual,nsfw
+29,ancestor-desktop,https://u.wisdor.com/,no visible change,auto,A vs B within A vs A2 noise
+30,ancestor-desktop,https://daga.cc/,,manual,
+31,ancestor-desktop,https://www.tnbk.tm/,,manual,
+32,ancestor-desktop,https://www.medapp.nl/,,manual,
+33,ancestor-desktop,https://ispace-us.com/,,manual,
+34,ancestor-desktop,https://www.jjworldleague.com/,,manual,
+35,ancestor-desktop,https://news.sarvgyan.com/,,manual,
+36,ancestor-desktop,https://v.vps6.cn/,,manual,nsfw
+37,ancestor-desktop,https://joyofhandspinning.com/,no visible change,auto,A vs B within A vs A2 noise
+38,ancestor-desktop,https://dissersovet.ru/,not assessable,auto,nsfw; load error: Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://dissersovet.ru/
+39,ancestor-desktop,https://edu.ppc-dole.com/,,manual,
+40,ancestor-desktop,https://dzkimgs.l.u-tokyo.ac.jp/,,manual,
+41,ancestor-desktop,https://mdstudentcouncils.org/,no visible change,auto,A vs B within A vs A2 noise
+42,ancestor-desktop,https://www.costabravarentboat.com/,,manual,
+43,ancestor-desktop,https://www.pillarandpost.com/,no visible change,auto,A vs B within A vs A2 noise
+44,ancestor-desktop,https://cirp.de/,,manual,
+45,ancestor-desktop,https://www.ekitapyayincilik.com/,,manual,
+46,ancestor-desktop,https://edigitalknowledge.com/,no visible change,auto,A vs B within A vs A2 noise
+47,ancestor-desktop,https://opagroup.co/,no visible change,auto,A vs B within A vs A2 noise
+48,ancestor-desktop,https://perfumedigital.es/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+49,ancestor-desktop,https://u-ap.wisdor.com/,no visible change,auto,A vs B within A vs A2 noise
+50,ancestor-desktop,https://www.baglioamalfi.com/,no visible change,auto,nsfw; A vs B within A vs A2 noise
+51,ancestor-desktop,https://www.szelesszelvedo.hu/,not assessable,auto,load error: visit timed out after 90s
+52,ancestor-desktop,https://www.akdsl.com/,not assessable,auto,load error: Page.goto: Timeout 30000ms exceeded.
+53,ancestor-desktop,https://art-culture.co.kr/,,manual,nsfw
+54,ancestor-desktop,https://monitore.sowil.cloud/,,manual,
+55,ancestor-desktop,https://www.ispace-inc.com/,,manual,
+56,ancestor-desktop,https://bsk.kp-dole.com/,,manual,
+57,ancestor-desktop,https://www.art-culture.co.kr/,,manual,nsfw
+58,ancestor-desktop,https://www.mein-schiffcruises.de/,,manual,
+59,ancestor-desktop,https://authtokens.bnsf.com/,,manual,
+60,ancestor-desktop,https://www.f4cp.org/,no visible change,auto,A vs B within A vs A2 noise
+61,ancestor-mobile,https://neaeope.gr/,,manual,
+62,ancestor-mobile,https://casign.gfapki.com.cn/,,manual,
+63,ancestor-mobile,https://sunny.open-store.fun/,,manual,
+64,ancestor-mobile,https://www.niceairportxpress.com/,,manual,
+65,ancestor-mobile,https://akdsl.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+66,ancestor-mobile,https://www.kussmundcruises.de/,,manual,
+67,ancestor-mobile,https://www.coempregos.com.br/,,manual,
+68,ancestor-mobile,https://www.schwimmschule-schumacher.de/,not assessable,auto,HTTP 503
+69,ancestor-mobile,https://www.admi.de/,no visible change,auto,A vs B within A vs A2 noise
+70,ancestor-mobile,https://www.moto-seguro.es/,,manual,
+71,ancestor-mobile,https://www.lara.no/,,manual,
+72,ancestor-mobile,https://www.sandcastlecaribbean.com/,,manual,
+73,ancestor-mobile,https://us.growatt.com/,,manual,
+74,ancestor-mobile,https://www.jcoet.ac.in/,not assessable,auto,"load error: Page.evaluate: Execution context was destroyed, most likely because of a navigat"
+75,ancestor-mobile,https://onyx-circle.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+76,ancestor-mobile,https://www.doctorszone.in/,,manual,
+77,ancestor-mobile,https://www.perfumedigital.es/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+78,ancestor-mobile,https://status-leasing.by/,no visible change,auto,A vs B within A vs A2 noise
+79,ancestor-mobile,https://onlinebanat.com/,not assessable,auto,"load error: Page.evaluate: Execution context was destroyed, most likely because of a navigat"
+80,ancestor-mobile,https://www.seguros-camiones.com/,,manual,
+81,ancestor-mobile,https://telefonicacorreduria.es/,,manual,
+82,ancestor-mobile,https://sowil.rotasmart.com.br/,,manual,
+83,ancestor-mobile,https://www.helpinghandstrust.net/,,manual,
+84,ancestor-mobile,https://mbbs-abroad.in/,not assessable,auto,"load error: Page.evaluate: Execution context was destroyed, most likely because of a navigat"
+85,ancestor-mobile,https://www.hotelglacierheights.com/,,manual,
+86,ancestor-mobile,https://www.casanazareno.it/,,manual,
+87,ancestor-mobile,https://fo.hsu.edu.hk/,no visible change,auto,A vs B within A vs A2 noise
+88,ancestor-mobile,https://bubnustudymaterial.blogspot.com/,,manual,
+89,ancestor-mobile,https://www.silverscreenportfolio.com/,,manual,
+90,ancestor-mobile,https://sdv.sk/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+91,ancestor-mobile,https://konkurs.pot.gov.pl/,,manual,
+92,ancestor-mobile,https://big.open-store.fun/,,manual,
+93,ancestor-mobile,https://official.evangeluniversity.edu.ng/,,manual,nsfw
+94,ancestor-mobile,https://gif.gymresult.it/,not assessable,auto,load error: Page.goto: net::ERR_TOO_MANY_REDIRECTS at https://gif.gymresult.it/
+95,ancestor-mobile,https://togel158.in/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+96,ancestor-mobile,https://pangsit4d.com/,no visible change,auto,A vs B within A vs A2 noise
+97,ancestor-mobile,https://worldmusicgear.easy-myshop.jp/,,manual,
+98,ancestor-mobile,https://ddss.unipune.ac.in/,,manual,
+99,ancestor-mobile,https://www.tnbk.tm/,,manual,
+100,ancestor-mobile,https://www.medapp.nl/,,manual,
+101,ancestor-mobile,https://ispace-us.com/,,manual,
+102,ancestor-mobile,https://www.jjworldleague.com/,broken,manual,hero and upcoming tournaments list disappear
+103,ancestor-mobile,https://news.sarvgyan.com/,,manual,
+104,ancestor-mobile,https://v.vps6.cn/,,manual,nsfw
+105,ancestor-mobile,https://joyofhandspinning.com/,,manual,
+106,ancestor-mobile,https://83ikon777.online/,,manual,
+107,ancestor-mobile,https://dissersovet.ru/,not assessable,auto,nsfw; load error: Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://dissersovet.ru/
+108,ancestor-mobile,https://edu.ppc-dole.com/,,manual,
+109,ancestor-mobile,https://www.costabravarentboat.com/,,manual,
+110,ancestor-mobile,https://www.pillarandpost.com/,no visible change,auto,A vs B within A vs A2 noise
+111,ancestor-mobile,https://www.booknewdthconnection.in/,,manual,nsfw
+112,ancestor-mobile,https://ascentgene.com/,no visible change,auto,A vs B within A vs A2 noise
+113,ancestor-mobile,https://cirp.de/,,manual,
+114,ancestor-mobile,https://www.ekitapyayincilik.com/,,manual,
+115,ancestor-mobile,https://podologistic.com/,not assessable,auto,load error: Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://podologistic.com/
+116,ancestor-mobile,https://edu.sappaya-dole.com/,,manual,
+117,ancestor-mobile,https://edigitalknowledge.com/,no visible change,auto,A vs B within A vs A2 noise
+118,ancestor-mobile,https://opagroup.co/,no visible change,auto,A vs B within A vs A2 noise
+119,ancestor-mobile,https://perfumedigital.es/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+120,ancestor-mobile,https://schedule.altag.ru/,,manual,
+121,ancestor-mobile,https://www.baglioamalfi.com/,no visible change,auto,A vs B within A vs A2 noise
+122,ancestor-mobile,https://www.szelesszelvedo.hu/,not assessable,auto,load error: visit timed out after 90s
+123,ancestor-mobile,https://www.akdsl.com/,not assessable,auto,load error: Page.goto: Timeout 30000ms exceeded.
+124,ancestor-mobile,https://art-culture.co.kr/,,manual,
+125,ancestor-mobile,https://monitore.sowil.cloud/,,manual,
+126,ancestor-mobile,https://www.ispace-inc.com/,,manual,
+127,ancestor-mobile,https://bsk.kp-dole.com/,,manual,
+128,ancestor-mobile,https://www.art-culture.co.kr/,,manual,
+129,ancestor-mobile,https://www.mein-schiffcruises.de/,broken,manual,search form GO button and all content below the form disappear
+130,ancestor-mobile,https://authtokens.bnsf.com/,,manual,
+131,both-desktop,https://bip.bradescobbi.com.br/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+132,both-desktop,https://eg.xpi.com.br/,not assessable,auto,HTTP 403
+133,parent-desktop,https://v-ef.lehrplan.ch/,no visible change,auto,A vs B within A vs A2 noise
+134,parent-desktop,https://holidayandflightcentre.com/,no visible change,auto,A vs B within A vs A2 noise
+135,parent-desktop,https://procarautomotriz.cl/,not assessable,auto,load error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://procarautomotriz.cl/
+136,parent-desktop,https://watrflag.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+137,parent-desktop,https://www.lefleurfloraldesign.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+138,parent-desktop,https://oldstonetrade.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+139,parent-desktop,https://afp.vedan.com/,no visible change,auto,A vs B within A vs A2 noise
+140,parent-desktop,https://nssposa.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+141,parent-desktop,http://vnportal.vedan.com/,not assessable,auto,load error: Page.goto: net::ERR_BLOCKED_BY_CLIENT at http://vnportal.vedan.com/
+142,parent-desktop,https://atriumauto.hu/,no visible change,auto,A vs B within A vs A2 noise
+143,parent-desktop,https://www.milkandhoneycakery.co.za/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+144,parent-desktop,https://www.stock-life.net/,,manual,
+145,parent-desktop,https://rebeccafalck.se/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+146,parent-desktop,https://autorentals-crete.gr/,no visible change,auto,A vs B within A vs A2 noise
+147,parent-desktop,https://www.2agroupeimmo.fr/,no visible change,auto,A vs B within A vs A2 noise
+148,parent-desktop,https://www.netcontrol2.com/,,manual,
+149,parent-desktop,https://simplyscentscandles.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+150,parent-desktop,https://www.codeo-vet.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+151,parent-desktop,https://vs.cns.com.cn/,,manual,
+152,parent-desktop,https://woolchambers.com.au/,no visible change,auto,A vs B within A vs A2 noise
+153,parent-desktop,https://felixtabitha.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+154,parent-desktop,https://parkreservations.solanocounty.com/,no visible change,auto,A vs B within A vs A2 noise
+155,parent-desktop,https://stripedseed.ca/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+156,parent-desktop,https://support.alpine-europe.com/,,manual,
+157,parent-desktop,http://www.bdg.ibge.gov.br/,not assessable,auto,load error: Page.goto: net::ERR_BLOCKED_BY_CLIENT at http://www.bdg.ibge.gov.br/
+158,parent-desktop,https://xnxdesign.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+159,parent-desktop,https://hometechclub.au/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+160,parent-desktop,https://www.republicanumero1.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+161,parent-desktop,https://druck-guru.de/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+162,parent-desktop,https://www.floresexpress.com.ar/,,manual,
+163,parent-desktop,https://www.eastbaypaintcenter.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+164,parent-desktop,https://www.letstalkacademy.com/,no visible change,auto,nsfw; A vs B within A vs A2 noise
+165,parent-desktop,https://www.dartscorner.co.uk/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+166,parent-desktop,https://www.piese-drujbe.ro/,broken,manual,search box and model/product dropdowns disappear; option text spills down the page
+167,parent-desktop,https://bpm.sushiexpress.com.tw/,no visible change,auto,A vs B within A vs A2 noise
+168,parent-desktop,https://news-us.jp/,,manual,
+169,parent-desktop,https://undergraduatecommons.com/,,manual,
+170,parent-desktop,https://applenamedd.com/,no visible change,auto,A vs B within A vs A2 noise
+171,parent-desktop,https://www.rarepalmseeds.com/,broken,manual,top search/nav disappear; country select options spill out as text over the page
+172,parent-desktop,https://febvrewines.ie/,,manual,
+173,parent-desktop,https://unitedsocceracademy.com/,no visible change,auto,A vs B within A vs A2 noise
+174,parent-desktop,https://modelmanager.es/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+175,parent-desktop,https://tsmartuk.co.uk/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+176,parent-desktop,https://kaspisinaq.com/,,manual,
+177,parent-desktop,https://nakorara.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+178,parent-desktop,https://www.laei.it/,no visible change,auto,nsfw; change not triggered in B (no <input> inside <select>)
+179,parent-desktop,https://www.cfe.fr/,,manual,
+180,parent-desktop,https://stanzfishing.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+181,parent-desktop,https://norfolk-broads-boats.co.uk/,no visible change,auto,A vs B within A vs A2 noise
+182,parent-desktop,https://jeioptics.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+183,parent-desktop,https://fddb.info/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+184,parent-desktop,https://www.costomo.net/,,manual,
+185,parent-desktop,https://silverworkstudios.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+186,parent-desktop,https://sanfruttuosometeo.altervista.org/,not assessable,auto,load error: Page.goto: Timeout 30000ms exceeded.
+187,parent-desktop,https://teachingcommons.us/,,manual,
+188,parent-desktop,https://lu.lehrplan.ch/,no visible change,auto,A vs B within A vs A2 noise
+189,parent-desktop,https://clarasol.com/,no visible change,auto,A vs B within A vs A2 noise
+190,parent-desktop,https://www.adoptabeat.co.uk/,,manual,
+191,parent-desktop,https://bs.lehrplan.ch/,no visible change,auto,A vs B within A vs A2 noise
+192,parent-desktop,https://eip.weizheng.com.tw/,no visible change,auto,A vs B within A vs A2 noise
+193,parent-desktop,https://www.rehberimol.com/,no visible change,auto,A vs B within A vs A2 noise
+194,parent-desktop,https://kenyacarbazaar.com/,,manual,
+195,parent-desktop,https://popeyeweb.com/,,manual,
+196,parent-desktop,https://isagrutman.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+197,parent-desktop,https://honeyhand.co.uk/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+198,parent-desktop,https://epaper.nationalheraldindia.com/,,manual,
+199,parent-desktop,https://www.imoveisgonzales.com.br/,,manual,
+200,parent-desktop,https://northernrubberworks.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+201,parent-desktop,https://escaperoom66.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+202,parent-desktop,https://www.hierrosbertola.com/,no visible change,auto,A vs B within A vs A2 noise
+203,parent-desktop,https://www.bellelechic.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+204,parent-desktop,https://git-auto.pl/,no visible change,auto,A vs B within A vs A2 noise
+205,parent-desktop,https://www.promesa.name/,no visible change,auto,A vs B within A vs A2 noise
+206,parent-desktop,https://trime.cz/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+207,parent-desktop,https://ewcinteriors.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+208,parent-desktop,https://be.lehrplan.ch/,no visible change,auto,A vs B within A vs A2 noise
+209,parent-desktop,https://padelspeed.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+210,parent-desktop,https://avtocentar.mk/,no visible change,auto,A vs B within A vs A2 noise
+211,parent-desktop,https://my-always.jp/,no visible change,auto,A vs B within A vs A2 noise
+212,parent-desktop,https://brandeye.co.kr/,no visible change,auto,A vs B within A vs A2 noise
+213,parent-desktop,https://ak-auto.pl/,no visible change,auto,A vs B within A vs A2 noise
+214,parent-desktop,https://sissymarket.com/,no visible change,auto,nsfw; change not triggered in B (no <input> inside <select>)
+215,parent-desktop,https://ace-mfg.com/,not assessable,auto,HTTP 403
+216,parent-desktop,https://pozyczkanadowod.honesta.biz/,no visible change,auto,A vs B within A vs A2 noise
+217,parent-desktop,https://littleedensucculents.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+218,parent-desktop,https://mba.mactools.com/,no visible change,auto,A vs B within A vs A2 noise
+219,parent-desktop,https://www.archimake.it/,,manual,
+220,parent-desktop,https://rulote-sh.ro/,no visible change,auto,A vs B within A vs A2 noise
+221,parent-desktop,https://www.luxurymotorsport.com.br/,no visible change,auto,A vs B within A vs A2 noise
+222,parent-desktop,https://www.barollo.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+223,parent-desktop,http://janwani.in/,not assessable,auto,HTTP 404
+224,parent-desktop,https://mytrime.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+225,parent-desktop,https://muzon.fr/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+226,parent-desktop,https://www.remax1stchoicegd.com/,no visible change,auto,A vs B within A vs A2 noise
+227,parent-desktop,https://pawyoga.com/,no visible change,auto,nsfw; change not triggered in B (no <input> inside <select>)
+228,parent-desktop,https://shopangelra.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+229,parent-desktop,https://www.prettycleanshop.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+230,parent-desktop,https://cirrusparfum.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+231,parent-desktop,https://provationlife.com/,no visible change,auto,nsfw; change not triggered in B (no <input> inside <select>)
+232,parent-desktop,https://www.automody.it/,no visible change,auto,A vs B within A vs A2 noise
+233,parent-desktop,https://gr-d.lehrplan.ch/,no visible change,auto,A vs B within A vs A2 noise
+234,parent-desktop,https://providerdirectory.nhpri.org/,no visible change,auto,A vs B within A vs A2 noise
+235,parent-desktop,https://ww2.lifeplus.com/,,manual,
+236,parent-desktop,https://www.discexpress.se/,no visible change,auto,nsfw; change not triggered in B (no <input> inside <select>)
+237,parent-desktop,https://codeo-medical.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+238,parent-desktop,https://www.boarderclubportugal.pt/,no visible change,auto,A vs B within A vs A2 noise
+239,parent-desktop,https://www.rogersmotors.ca/,not assessable,auto,load error: visit timed out after 90s
+240,parent-desktop,https://www.kaeruhome.jp/,no visible change,auto,A vs B within A vs A2 noise
+241,parent-desktop,https://www.advanceddentalspas.com/,no visible change,auto,A vs B within A vs A2 noise
+242,parent-desktop,https://wolomin.org/,no visible change,auto,A vs B within A vs A2 noise
+243,parent-desktop,https://novedadesbibliograficas.dgb.unam.mx/,not assessable,auto,HTTP 403
+244,parent-desktop,https://www.markanthonycollections.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+245,parent-desktop,https://jurisprudencia.cplt.cl/,no visible change,auto,A vs B within A vs A2 noise
+246,parent-desktop,https://associazionimolisane.it/,,manual,
+247,parent-desktop,https://skiracing.nastar.com/,,manual,
+248,parent-desktop,https://www.nlg.it/,no visible change,auto,A vs B within A vs A2 noise
+249,parent-desktop,https://pascaldesign.com/,no visible change,auto,nsfw; change not triggered in B (no <input> inside <select>)
+250,parent-desktop,https://bridgesetsound.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+251,parent-desktop,https://occasions-automobiles.nc/,no visible change,auto,A vs B within A vs A2 noise
+252,parent-desktop,https://www.missouladirt.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+253,parent-desktop,https://bucknerprosthetics.com/,,manual,
+254,parent-desktop,https://www.stardustskateshop.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+255,parent-desktop,https://gacmotor.ao/,no visible change,auto,A vs B within A vs A2 noise
+256,parent-desktop,https://honeywallholistic.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+257,parent-desktop,https://epaper.loksatya.com/,,manual,
+258,parent-desktop,https://kilinclar.nl/,,manual,
+259,parent-desktop,https://eip.everrich.com.tw/,no visible change,auto,A vs B within A vs A2 noise
+260,parent-desktop,https://maulkorb-factory.de/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+261,parent-desktop,https://www.stairwaystudio.ca/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+262,parent-desktop,https://motors-plugin.stylemixthemes.com/,no visible change,auto,A vs B within A vs A2 noise
+263,parent-desktop,https://v-fe.lehrplan.ch/,no visible change,auto,A vs B within A vs A2 noise
+264,parent-desktop,https://fallentimbermeadery.ca/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+265,parent-desktop,https://sportsnutritionexperts.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+266,parent-desktop,https://www.euroeducation.net/,,manual,
+267,parent-desktop,https://thejapanesecar.com/,,manual,
+268,parent-desktop,https://tigerfriday.com/,no visible change,auto,nsfw; change not triggered in B (no <input> inside <select>)
+269,parent-desktop,https://boneandbusk.com/,no visible change,auto,nsfw; change not triggered in B (no <input> inside <select>)
+270,parent-desktop,https://galisagrace.co.uk/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+271,parent-desktop,https://careers.quakerhoughton.com/,no visible change,auto,A vs B within A vs A2 noise
+272,parent-desktop,https://keonline.biz/,no visible change,auto,A vs B within A vs A2 noise
+273,parent-desktop,https://platinum-book.com/,no visible change,auto,nsfw; A vs B within A vs A2 noise
+274,parent-desktop,https://tippliga.bien.de/,no visible change,auto,A vs B within A vs A2 noise
+275,parent-desktop,https://runningonblooms.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+276,parent-desktop,https://www.avianempire.co.nz/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+277,parent-desktop,https://prettypennyclothing.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+278,parent-desktop,https://asiatoursoriente.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+279,parent-desktop,https://oceangrandmaldives.com/,no visible change,auto,A vs B within A vs A2 noise
+280,parent-desktop,https://europatoursypaquetes.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+281,parent-desktop,https://thestephumeh.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+282,parent-desktop,https://kaban.trend11.shop/,no visible change,auto,A vs B within A vs A2 noise
+283,parent-desktop,https://www.savetis.com/,no visible change,auto,A vs B within A vs A2 noise
+284,parent-desktop,https://www.stjohnandmyers.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+285,parent-desktop,https://iss.surf/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+286,parent-desktop,https://lightoftwelve.com/,not assessable,auto,HTTP 402
+287,parent-desktop,https://www.daintydiamond.co/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+288,parent-desktop,https://www.betto.ro/,,manual,
+289,parent-desktop,https://nuesiceramics.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+290,parent-desktop,https://library.carteret.edu/,no visible change,auto,A vs B within A vs A2 noise
+291,parent-desktop,http://kazemeguri.blog.fc2.com/,not assessable,auto,load error: Page.goto: net::ERR_BLOCKED_BY_CLIENT at http://kazemeguri.blog.fc2.com/
+292,parent-desktop,https://adsfare.com/,no visible change,auto,A vs B within A vs A2 noise
+293,parent-desktop,https://pickleballth.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+294,parent-desktop,https://www.1000vallemultimarcas.com.br/,not assessable,auto,load error: visit timed out after 90s
+295,parent-desktop,https://www.stratusinfosystems.com/,not assessable,auto,HTTP 403
+296,parent-desktop,https://bananaprosthetics.com/,not assessable,auto,load error: visit timed out after 90s
+297,parent-desktop,https://eyelasikaustin.com/,no visible change,auto,A vs B within A vs A2 noise
+298,parent-desktop,https://www.dartscorner.eu/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+299,parent-desktop,https://bl.lehrplan.ch/,no visible change,auto,A vs B within A vs A2 noise
+300,parent-desktop,http://flyback.org.ru/,not assessable,auto,HTTP 404
+301,parent-desktop,https://jobs.laitram.com/,no visible change,auto,A vs B within A vs A2 noise
+302,parent-desktop,https://sz.lehrplan.ch/,no visible change,auto,A vs B within A vs A2 noise
+303,parent-desktop,https://jeffshustergolf.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+304,parent-desktop,https://thailandstore.org/,no visible change,auto,A vs B within A vs A2 noise
+305,parent-desktop,https://www.keonline.biz/,no visible change,auto,A vs B within A vs A2 noise
+306,parent-desktop,https://garagemotors.cl/,not assessable,auto,load error: visit timed out after 90s
+307,parent-desktop,https://canderelresidential.com/,no visible change,auto,A vs B within A vs A2 noise
+308,parent-desktop,https://www.darkstarcoffee.com.au/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+309,parent-desktop,https://idc-klaassen.com/,,manual,
+310,parent-desktop,https://loyalty.ink/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+311,parent-desktop,https://www.plantamed.com.br/,not assessable,auto,load error: Page.goto: Timeout 30000ms exceeded.
+312,parent-desktop,https://www.racestaff.com/,no visible change,auto,A vs B within A vs A2 noise
+313,parent-desktop,https://ag.lehrplan.ch/,no visible change,auto,A vs B within A vs A2 noise
+314,parent-desktop,https://stcroixrodfactorystore.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+315,parent-desktop,https://koreatrade.bg/,not assessable,auto,load error: visit timed out after 90s
+316,parent-desktop,https://berivse.net/,no visible change,auto,A vs B within A vs A2 noise
+317,parent-desktop,https://biblioteca.ui1.es/,,manual,
+318,parent-desktop,https://lapenderieduparadis.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+319,parent-desktop,https://www.northdentalprofessionals.com/,,manual,
+320,parent-desktop,https://bavariaused.com/,no visible change,auto,A vs B within A vs A2 noise
+321,parent-desktop,https://giving.nyulangone.org/,,manual,
+322,parent-desktop,https://beugellozebh.nl/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+323,parent-desktop,https://www.estetestudio.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+324,parent-desktop,https://tanjayr.is/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+325,parent-desktop,https://kakeskreations.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+326,parent-desktop,https://www.scribecycling.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+327,parent-desktop,https://festivaltravelandtours.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+328,parent-desktop,https://www.yeaah.com/,not assessable,auto,load error: Page.goto: net::ERR_HTTP_RESPONSE_CODE_FAILURE at https://www.yeaah.com/
+329,parent-desktop,https://www.gxzx.gov.cn/,not assessable,auto,load error: Page.goto: Timeout 30000ms exceeded.
+330,parent-desktop,http://www.joyglobal.cc/,no visible change,auto,nsfw; change not triggered in B (no <input> inside <select>)
+331,parent-desktop,https://www.hirednurses.com/,no visible change,auto,A vs B within A vs A2 noise
+332,parent-desktop,https://drinkcollab.ca/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+333,parent-desktop,https://www.forum.bg-nacionalisti.org/,no visible change,auto,A vs B within A vs A2 noise
+334,parent-desktop,https://www.proudemployers.org.uk/,no visible change,auto,A vs B within A vs A2 noise
+335,parent-desktop,https://www.millenium-collectivites.fr/,no visible change,auto,A vs B within A vs A2 noise
+336,parent-desktop,http://jpg4us.net/,not assessable,auto,nsfw; load error: Page.goto: net::ERR_BLOCKED_BY_CLIENT at http://jpg4us.net/
+337,parent-desktop,https://emma-wallace.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+338,parent-desktop,https://h-h-auto.com/,not assessable,auto,"load error: Page.evaluate: Execution context was destroyed, most likely because of a navigat"
+339,parent-desktop,https://autobahnprestigemotors.com/,not assessable,auto,load error: visit timed out after 90s
+340,parent-desktop,https://autoaza.ro/,no visible change,auto,A vs B within A vs A2 noise
+341,parent-desktop,http://www.jpg4us.net/,not assessable,auto,nsfw; load error: Page.goto: net::ERR_BLOCKED_BY_CLIENT at http://www.jpg4us.net/
+342,parent-desktop,https://epaper.viraatvaibhav.com/,,manual,
+343,parent-desktop,https://remax-franquicias.com.ar/,no visible change,auto,A vs B within A vs A2 noise
+344,parent-desktop,https://library.mu-varna.bg/,no visible change,auto,A vs B within A vs A2 noise
+345,parent-desktop,https://because.coffee/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+346,parent-desktop,https://mylifeordebt.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+347,parent-desktop,https://cultbike-luebeck.de/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+348,parent-desktop,https://www.aeqv.ch/,,manual,
+349,parent-desktop,https://www.yummygums.com/,no visible change,auto,A vs B within A vs A2 noise
+350,parent-desktop,http://www.frma.jp/,not assessable,auto,load error: Page.goto: net::ERR_BLOCKED_BY_CLIENT at http://www.frma.jp/
+351,parent-desktop,https://portal.flowring.com/,no visible change,auto,A vs B within A vs A2 noise
+352,parent-desktop,https://www.dsglandscaping.com.au/,no visible change,auto,A vs B within A vs A2 noise
+353,parent-desktop,https://www.janescrivner.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+354,parent-desktop,https://modcph.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+355,parent-desktop,https://bicwclass.in/,not assessable,auto,"load error: Page.evaluate: Execution context was destroyed, most likely because of a navigat"
+356,parent-desktop,https://www.schaukaeserei-wiggensbach.de/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+357,parent-desktop,https://skiftkalender.no/,,manual,
+358,parent-desktop,https://www.zouka.com/,,manual,
+359,parent-desktop,https://www.pooky.co.jp/,,manual,
+360,parent-desktop,https://sufavorita.com/,,manual,
+361,parent-desktop,https://shop.mahoneysgarden.com/,no visible change,auto,A vs B within A vs A2 noise
+362,parent-desktop,https://mawa-hangers.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+363,parent-desktop,https://ismylova.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+364,parent-desktop,https://www.clubebits.com.br/,,manual,
+365,parent-desktop,https://historyofthedominatrix.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+366,parent-desktop,https://uni.ukrainemarket.online/,not assessable,auto,HTTP 403
+367,parent-desktop,https://igarz.com/,broken,manual,"start panel inputs (name/skin/team, play button, option checkboxes) disappear into the select"
+368,parent-desktop,https://www.criarsinmorirenelintento.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+369,parent-desktop,https://agentflow.genesis.org.tw/,no visible change,auto,A vs B within A vs A2 noise
+370,parent-desktop,https://www.ahmedabadprojects.com/,,manual,
+371,parent-desktop,https://spikedcandy.com/,broken,manual,whole page body disappears; only footer line left
+372,parent-desktop,https://myhhcreations.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+373,parent-desktop,https://www.wikdmotorsports.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+374,parent-desktop,https://www.betto-parts.ro/,,manual,
+375,parent-desktop,https://bpm.ptotinc.com/,no visible change,auto,A vs B within A vs A2 noise
+376,parent-desktop,https://suffolkweddingdressstudio.co.uk/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+377,parent-desktop,https://dccardetailing.cl/,no visible change,auto,nsfw; change not triggered in B (no <input> inside <select>)
+378,parent-desktop,https://www.dartscorner.nl/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+379,parent-desktop,https://apc.iapi-inaiap.org/,not assessable,auto,load error: visit timed out after 90s
+380,parent-desktop,https://wanaromah.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+381,parent-desktop,https://www.whiteproperty.com.bd/,no visible change,auto,A vs B within A vs A2 noise
+382,parent-desktop,https://terracottaceramica.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+383,parent-desktop,https://www.widopan.de/,no visible change,auto,A vs B within A vs A2 noise
+384,parent-desktop,https://quillionz.com/,no visible change,auto,A vs B within A vs A2 noise
+385,parent-desktop,https://www.adostats.nl/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+386,parent-desktop,https://www.ulsterceramicspotterysupplies.co.uk/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+387,parent-desktop,https://www.awsco.co/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+388,parent-desktop,https://www.kindredpost.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+389,parent-desktop,https://www.dazzlecarsbexhill.co.uk/,,manual,
+390,parent-desktop,https://getafix.ph/,no visible change,auto,A vs B within A vs A2 noise
+391,parent-desktop,https://marroppys.jp/,no visible change,auto,A vs B within A vs A2 noise
+392,parent-desktop,https://bpm4.jourdeness.com.tw/,no visible change,auto,A vs B within A vs A2 noise
+393,parent-desktop,https://bryansk.rusokna.ru/,,manual,nsfw
+394,parent-desktop,https://www.skyvillasbaner.com/,not assessable,auto,load error: visit timed out after 90s
+395,parent-desktop,https://noaoa.eus/,no visible change,auto,A vs B within A vs A2 noise
+396,parent-desktop,https://thecreativestudio.ph/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+397,parent-desktop,https://reservations.lanecounty.org/,no visible change,auto,A vs B within A vs A2 noise
+398,parent-desktop,https://www.cartoriodamooca.com.br/,not assessable,auto,load error: visit timed out after 90s
+399,parent-desktop,https://www.giftcityproject.com/,,manual,
+400,parent-desktop,https://mburgoscars.es/,not assessable,auto,load error: visit timed out after 90s
+401,parent-desktop,https://www.thewineilove.com/,no visible change,auto,A vs B within A vs A2 noise
+402,parent-desktop,https://www.bybiehl.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+403,parent-desktop,https://jobs.intralox.com/,no visible change,auto,A vs B within A vs A2 noise
+404,parent-desktop,https://belairauto.ma/,,manual,
+405,parent-desktop,https://www.bettyandlola.com.au/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+406,parent-desktop,https://thaiblessingco.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+407,parent-desktop,https://wgoclearwater.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+408,parent-desktop,https://huffmansauto.com/,not assessable,auto,load error: visit timed out after 90s
+409,parent-desktop,https://www.thesilverneedle.com/,not assessable,auto,load error: visit timed out after 90s
+410,parent-desktop,https://www.metaluveikals.lv/,not assessable,auto,load error: visit timed out after 90s
+411,parent-desktop,https://precisionraceworks.com/,not assessable,auto,load error: visit timed out after 90s
+412,parent-desktop,https://www.gardenhousedesign.co.uk/,not assessable,auto,load error: visit timed out after 90s
+413,parent-desktop,https://semauto.es/,not assessable,auto,load error: visit timed out after 90s
+414,parent-desktop,https://itafos.com/,not assessable,auto,load error: visit timed out after 90s
+415,parent-desktop,https://citycenter-rosario.com.ar/,not assessable,auto,load error: visit timed out after 90s
+416,parent-desktop,https://toursatierrasanta.com/,not assessable,auto,load error: visit timed out after 90s
+417,parent-desktop,https://www.bleyer.at/,not assessable,auto,load error: visit timed out after 90s
+418,parent-desktop,http://forex.cnfol.com/,not assessable,auto,load error: Page.goto: net::ERR_BLOCKED_BY_CLIENT at http://forex.cnfol.com/
+419,parent-desktop,https://rtc.ma/,,manual,
+420,parent-desktop,https://www.sofiasimon.mx/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+421,parent-desktop,https://www.mylamination.com/,,manual,
+422,parent-desktop,https://www.aguasmarinasalgarrobo.cl/,no visible change,auto,A vs B within A vs A2 noise
+423,parent-desktop,https://www.triciasgems.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+424,parent-desktop,https://freedmandiamonds.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+425,parent-desktop,https://costomo.net/,,manual,
+426,parent-desktop,https://interlaw.by/,no visible change,auto,A vs B within A vs A2 noise
+427,parent-desktop,https://www.gavicar.pt/,no visible change,auto,A vs B within A vs A2 noise
+428,parent-desktop,https://zg.lehrplan.ch/,no visible change,auto,A vs B within A vs A2 noise
+429,parent-desktop,https://teonmycard.lakoo.com/,no visible change,auto,A vs B within A vs A2 noise
+430,parent-desktop,https://samanngrand.com/,no visible change,auto,A vs B within A vs A2 noise
+431,parent-desktop,https://trime.hu/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+432,parent-desktop,https://www.ferizy.com/,no visible change,auto,A vs B within A vs A2 noise
+433,parent-desktop,https://www.aeropuertosenred.com/,no visible change,auto,A vs B within A vs A2 noise
+434,parent-desktop,https://seminuevos.aspillagahornauer.cl/,no visible change,auto,A vs B within A vs A2 noise
+435,parent-desktop,https://sscoglobal.com/,no visible change,auto,A vs B within A vs A2 noise
+436,parent-desktop,https://craftiviti.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+437,parent-desktop,https://www.namdonglib.go.kr/,no visible change,auto,A vs B within A vs A2 noise
+438,parent-desktop,https://wildwoodpets.co.uk/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+439,parent-desktop,https://eip2.ycgroup.tw/,no visible change,auto,A vs B within A vs A2 noise
+440,parent-desktop,https://atoanmt.ucoz.com/,,manual,
+441,parent-desktop,https://danmartinjewelers.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+442,parent-desktop,https://www.twil.fr/,no visible change,auto,A vs B within A vs A2 noise
+443,parent-desktop,https://www.elitekennelfertility.com/,not assessable,auto,load error: Page.goto: Timeout 30000ms exceeded.
+444,parent-desktop,https://lotruglioauto.it/,not assessable,auto,"load error: Page.evaluate: Execution context was destroyed, most likely because of a navigat"
+445,parent-desktop,https://rovetd.com/,no visible change,auto,A vs B within A vs A2 noise
+446,parent-desktop,https://www.ashesh.com.np/,no visible change,auto,A vs B within A vs A2 noise
+447,parent-desktop,https://www.autoinofferta.it/,not assessable,auto,load error: visit timed out after 90s
+448,parent-desktop,https://www.gandhinagarprojects.com/,,manual,
+449,parent-desktop,https://www.sakoexpo.com.pl/,no visible change,auto,A vs B within A vs A2 noise
+450,parent-desktop,https://tahitieasycar.com/,no visible change,auto,A vs B within A vs A2 noise
+451,parent-desktop,https://www.sandsandfagans.co.uk/,no visible change,auto,nsfw; change not triggered in B (no <input> inside <select>)
+452,parent-desktop,https://www.ericatanov.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+453,parent-desktop,https://worldwidesimcardhu.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+454,parent-desktop,http://gold.cnfol.com/,not assessable,auto,load error: Page.goto: net::ERR_BLOCKED_BY_CLIENT at http://gold.cnfol.com/
+455,parent-desktop,http://dn4500.blog109.fc2.com/,not assessable,auto,load error: Page.goto: net::ERR_BLOCKED_BY_CLIENT at http://dn4500.blog109.fc2.com/
+456,parent-desktop,https://whitesport.dk/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+457,parent-desktop,https://www.sitaramorgan.co.uk/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+458,parent-desktop,https://f4customs.com/,,manual,
+459,parent-desktop,https://www.digitalnafyzika.sk/,no visible change,auto,A vs B within A vs A2 noise
+460,parent-desktop,https://usedcarscy.com/,,manual,
+461,parent-desktop,https://noteandaccord.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+462,parent-desktop,https://southworthlibrary.org/,,manual,
+463,parent-desktop,https://www.tecneum.eu/,no visible change,auto,A vs B within A vs A2 noise
+464,parent-desktop,https://pinturasytarimasideas.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+465,parent-desktop,https://www.leonards-property.co.uk/,,manual,
+466,parent-desktop,https://maisonharleen.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+467,parent-desktop,https://www.thelandofsalt.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+468,parent-desktop,https://www.able.co.jp/,no visible change,auto,A vs B within A vs A2 noise
+469,parent-desktop,https://teastincture.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+470,parent-desktop,https://plantamed.com.br/,no visible change,auto,A vs B within A vs A2 noise
+471,parent-desktop,https://www.fotokassa.no/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+472,parent-desktop,https://aeirtherapy.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+473,parent-desktop,https://platinumautojapan.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+474,parent-desktop,https://aeqv.ch/,,manual,
+475,parent-desktop,https://www.sktm.in/,,manual,nsfw
+476,parent-desktop,https://www.world-topics.com/,,manual,
+477,parent-desktop,https://www.laughinggoatfiber.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+478,parent-desktop,https://www.li1l.tokyo/,no visible change,auto,A vs B within A vs A2 noise
+479,parent-desktop,https://zavidovo-golf.ru/,no visible change,auto,A vs B within A vs A2 noise
+480,parent-desktop,https://www.caribbeanjobsonline.com/,,manual,
+481,parent-desktop,https://www.mylamination.it/,no visible change,auto,A vs B within A vs A2 noise
+482,parent-desktop,https://trime.sk/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+483,parent-desktop,https://barebooby.com/,no visible change,auto,nsfw; change not triggered in B (no <input> inside <select>)
+484,parent-desktop,https://festivalagents.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+485,parent-desktop,https://fromchinawithlove.tv/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+486,parent-desktop,https://inevita.sk/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+487,parent-desktop,https://www.onlynew.in/,,manual,
+488,parent-desktop,https://loudmouthldn.co.uk/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+489,parent-desktop,https://www.inventmyidea.com/,no visible change,auto,A vs B within A vs A2 noise
+490,parent-desktop,https://www.tailswagnh.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+491,parent-desktop,https://randoludo.blog4ever.com/,no visible change,auto,A vs B within A vs A2 noise
+492,parent-desktop,https://iltc.edu.sa/,no visible change,auto,A vs B within A vs A2 noise
+493,parent-desktop,https://www.thailandstore.org/,no visible change,auto,A vs B within A vs A2 noise
+494,parent-desktop,https://guijostudios.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+495,parent-desktop,https://smokehouse734.com/,no visible change,auto,A vs B within A vs A2 noise
+496,parent-desktop,https://gangwhoohospital.vn/,,manual,
+497,parent-desktop,https://ferizy.com/,no visible change,auto,A vs B within A vs A2 noise
+498,parent-desktop,https://santabarbara.camava.com/,no visible change,auto,A vs B within A vs A2 noise
+499,parent-desktop,https://www.tofasteam.com/,no visible change,auto,A vs B within A vs A2 noise
+500,parent-desktop,https://www.swarmsim.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+501,parent-desktop,https://thelittlestore.co/,no visible change,auto,A vs B within A vs A2 noise
+502,parent-desktop,https://the-chinese-tea-company.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+503,parent-desktop,https://lesjumelles.be/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+504,parent-desktop,https://ajrsportusa.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+505,parent-desktop,https://wildculturemushrooms.com/,no visible change,auto,nsfw; change not triggered in B (no <input> inside <select>)
+506,parent-desktop,https://www.intesasanpaolobanka.ba/,not assessable,auto,HTTP 403
+507,parent-desktop,https://popsknife.supplies/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+508,parent-desktop,https://www.syskevasia.net/,,manual,
+509,parent-desktop,https://epaper.navjivanindia.com/,,manual,
+510,parent-desktop,https://importsbyrigi.com/,not assessable,auto,"load error: Page.evaluate: Execution context was destroyed, most likely because of a navigat"
+511,parent-desktop,https://toursfestival.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+512,parent-desktop,https://trapedoutapparel.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+513,parent-desktop,https://www.132favoric.com/,no visible change,auto,A vs B within A vs A2 noise
+514,parent-desktop,https://hislibris.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+515,parent-desktop,https://gualterhelicopteros.com.br/,,manual,
+516,parent-desktop,https://thefelteddesert.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+517,parent-desktop,https://epaper.eisamay.com/,not assessable,auto,load error: Page.goto: Timeout 30000ms exceeded.
+518,parent-desktop,https://www.oceanpremium.com/,no visible change,auto,A vs B within A vs A2 noise
+519,parent-desktop,https://partybros.com.au/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+520,parent-desktop,https://hdbikeandsport.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+521,parent-desktop,https://dhfishingadventures.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+522,parent-desktop,https://www.live360communities.com/,no visible change,auto,nsfw; A vs B within A vs A2 noise
+523,parent-desktop,https://www.adsfare.com/,no visible change,auto,A vs B within A vs A2 noise
+524,parent-desktop,https://belladunya.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+525,parent-desktop,https://horrorfreaksubs.rf.gd/,,manual,
+526,parent-desktop,https://rigit-adventures.co.za/,no visible change,auto,A vs B within A vs A2 noise
+527,parent-desktop,https://www.fisherauto.com/,not assessable,auto,HTTP 403
+528,parent-desktop,https://cumbria-travel.com/,no visible change,auto,A vs B within A vs A2 noise
+529,parent-desktop,http://kayleen.blog.fc2.com/,not assessable,auto,load error: Page.goto: net::ERR_BLOCKED_BY_CLIENT at http://kayleen.blog.fc2.com/
+530,parent-desktop,https://mazelabcoffee.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+531,parent-desktop,https://betterbushcraft.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+532,parent-desktop,https://eform.sanrio.com.tw/,no visible change,auto,A vs B within A vs A2 noise
+533,parent-desktop,https://googoohair.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+534,parent-desktop,https://vetclinicuae.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+535,parent-desktop,https://trxhire.com.au/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+536,parent-desktop,https://www.gwbands.com/,no visible change,auto,nsfw; change not triggered in B (no <input> inside <select>)
+537,parent-desktop,https://wonderlabmtl.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+538,parent-desktop,https://dvdgameexchange.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+539,parent-desktop,https://www.citycenter-rosario.com.ar/,no visible change,auto,A vs B within A vs A2 noise
+540,parent-desktop,https://www.kliemannsland.de/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+541,parent-desktop,https://autosopcuracao.com/,no visible change,auto,A vs B within A vs A2 noise
+542,parent-mobile,https://alkatreszek.hu/,no visible change,auto,A vs B within A vs A2 noise
+543,parent-mobile,https://holidayandflightcentre.com/,no visible change,auto,A vs B within A vs A2 noise
+544,parent-mobile,https://procarautomotriz.cl/,not assessable,auto,load error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://procarautomotriz.cl/
+545,parent-mobile,https://watrflag.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+546,parent-mobile,https://www.lefleurfloraldesign.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+547,parent-mobile,https://oldstonetrade.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+548,parent-mobile,https://nssposa.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+549,parent-mobile,https://atriumauto.hu/,no visible change,auto,A vs B within A vs A2 noise
+550,parent-mobile,https://conteleopardi.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+551,parent-mobile,https://sbmania.net/,,manual,
+552,parent-mobile,https://agendamia.com.ar/,,manual,
+553,parent-mobile,https://imotireplace.bg/,,manual,
+554,parent-mobile,https://trimesalud.es/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+555,parent-mobile,https://www.milkandhoneycakery.co.za/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+556,parent-mobile,https://www.stock-life.net/,,manual,
+557,parent-mobile,https://rebeccafalck.se/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+558,parent-mobile,https://autorentals-crete.gr/,no visible change,auto,A vs B within A vs A2 noise
+559,parent-mobile,https://www.2agroupeimmo.fr/,no visible change,auto,A vs B within A vs A2 noise
+560,parent-mobile,https://www.netcontrol2.com/,no visible change,auto,A vs B within A vs A2 noise
+561,parent-mobile,https://simplyscentscandles.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+562,parent-mobile,https://www.codeo-vet.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+563,parent-mobile,https://vs.cns.com.cn/,,manual,
+564,parent-mobile,https://woolchambers.com.au/,no visible change,auto,A vs B within A vs A2 noise
+565,parent-mobile,https://felixtabitha.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+566,parent-mobile,https://parkreservations.solanocounty.com/,no visible change,auto,A vs B within A vs A2 noise
+567,parent-mobile,https://stripedseed.ca/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+568,parent-mobile,https://support.alpine-europe.com/,,manual,
+569,parent-mobile,http://www.bdg.ibge.gov.br/,not assessable,auto,load error: Page.goto: net::ERR_BLOCKED_BY_CLIENT at http://www.bdg.ibge.gov.br/
+570,parent-mobile,https://xnxdesign.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+571,parent-mobile,https://hometechclub.au/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+572,parent-mobile,https://portal.consalor.edu.ng/,,manual,
+573,parent-mobile,https://www.republicanumero1.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+574,parent-mobile,https://druck-guru.de/,not assessable,auto,load error: Page.goto: Timeout 30000ms exceeded.
+575,parent-mobile,https://www.opticayosy.co.il/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+576,parent-mobile,https://neuwagenonline.at/,,manual,
+577,parent-mobile,https://23beauty.paris/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+578,parent-mobile,https://www.floresexpress.com.ar/,,manual,
+579,parent-mobile,https://matchmarry.com/,no visible change,auto,A vs B within A vs A2 noise
+580,parent-mobile,https://www.eastbaypaintcenter.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+581,parent-mobile,https://www.letstalkacademy.com/,no visible change,auto,A vs B within A vs A2 noise
+582,parent-mobile,https://www.dartscorner.co.uk/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+583,parent-mobile,https://lowcosttorres.es/,no visible change,auto,A vs B within A vs A2 noise
+584,parent-mobile,https://bpm.sushiexpress.com.tw/,no visible change,auto,A vs B within A vs A2 noise
+585,parent-mobile,https://news-us.jp/,no visible change,auto,A vs B within A vs A2 noise
+586,parent-mobile,https://applenamedd.com/,no visible change,auto,A vs B within A vs A2 noise
+587,parent-mobile,https://kocotoekspertiz.com.tr/,not assessable,auto,"load error: Page.evaluate: Execution context was destroyed, most likely because of a navigat"
+588,parent-mobile,https://www.rarepalmseeds.com/,,manual,
+589,parent-mobile,https://wniosek.promesa.name/,no visible change,auto,A vs B within A vs A2 noise
+590,parent-mobile,https://leto.gorskiclub.ru/,no visible change,auto,A vs B within A vs A2 noise
+591,parent-mobile,https://febvrewines.ie/,,manual,
+592,parent-mobile,https://unitedsocceracademy.com/,no visible change,auto,A vs B within A vs A2 noise
+593,parent-mobile,https://modelmanager.es/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+594,parent-mobile,https://tsmartuk.co.uk/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+595,parent-mobile,https://kaspisinaq.com/,,manual,
+596,parent-mobile,https://nakorara.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+597,parent-mobile,https://www.laei.it/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+598,parent-mobile,https://www.cfe.fr/,,manual,
+599,parent-mobile,http://mepaper.qaumibharat.com/,not assessable,auto,HTTP 404
+600,parent-mobile,https://aguasmarinasalgarrobo.cl/,no visible change,auto,A vs B within A vs A2 noise
+601,parent-mobile,https://stanzfishing.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+602,parent-mobile,https://norfolk-broads-boats.co.uk/,,manual,
+603,parent-mobile,https://jeioptics.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+604,parent-mobile,https://www.costomo.net/,,manual,
+605,parent-mobile,https://silverworkstudios.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+606,parent-mobile,https://sanfruttuosometeo.altervista.org/,no visible change,auto,A vs B within A vs A2 noise
+607,parent-mobile,https://teachingcommons.us/,,manual,
+608,parent-mobile,https://www.kerhuel-auto.fr/,,manual,
+609,parent-mobile,https://wilcars.pl/,no visible change,auto,A vs B within A vs A2 noise
+610,parent-mobile,https://clarasol.com/,no visible change,auto,A vs B within A vs A2 noise
+611,parent-mobile,https://zygauto.pl/,no visible change,auto,A vs B within A vs A2 noise
+612,parent-mobile,https://www.adoptabeat.co.uk/,,manual,
+613,parent-mobile,https://www.rehberimol.com/,no visible change,auto,A vs B within A vs A2 noise
+614,parent-mobile,https://kenyacarbazaar.com/,,manual,
+615,parent-mobile,https://popeyeweb.com/,,manual,
+616,parent-mobile,https://isagrutman.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+617,parent-mobile,https://honeyhand.co.uk/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+618,parent-mobile,https://epaper.nationalheraldindia.com/,,manual,
+619,parent-mobile,https://northernrubberworks.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+620,parent-mobile,https://escaperoom66.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+621,parent-mobile,https://www.hierrosbertola.com/,,manual,
+622,parent-mobile,https://www.bellelechic.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+623,parent-mobile,https://git-auto.pl/,no visible change,auto,A vs B within A vs A2 noise
+624,parent-mobile,https://www.promesa.name/,no visible change,auto,A vs B within A vs A2 noise
+625,parent-mobile,https://trime.cz/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+626,parent-mobile,https://www.sbmania.net/,,manual,
+627,parent-mobile,https://ewcinteriors.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+628,parent-mobile,https://be.lehrplan.ch/,no visible change,auto,A vs B within A vs A2 noise
+629,parent-mobile,https://padelspeed.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+630,parent-mobile,https://avtocentar.mk/,no visible change,auto,A vs B within A vs A2 noise
+631,parent-mobile,https://nbncars.com.pl/,no visible change,auto,A vs B within A vs A2 noise
+632,parent-mobile,https://my-always.jp/,no visible change,auto,A vs B within A vs A2 noise
+633,parent-mobile,https://brandeye.co.kr/,not assessable,auto,load error: Page.goto: Timeout 30000ms exceeded.
+634,parent-mobile,https://ak-auto.pl/,no visible change,auto,A vs B within A vs A2 noise
+635,parent-mobile,https://nddc-payment.apply-today.live/,not assessable,auto,load error: Page.goto: net::ERR_CONNECTION_CLOSED at https://nddc-payment.apply-today.live/
+636,parent-mobile,https://searedtoledo.com/,no visible change,auto,A vs B within A vs A2 noise
+637,parent-mobile,https://sissymarket.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+638,parent-mobile,https://ace-mfg.com/,no visible change,auto,A vs B within A vs A2 noise
+639,parent-mobile,https://pozyczkanadowod.honesta.biz/,no visible change,auto,A vs B within A vs A2 noise
+640,parent-mobile,https://littleedensucculents.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+641,parent-mobile,https://www.archimake.it/,,manual,
+642,parent-mobile,https://rulote-sh.ro/,no visible change,auto,A vs B within A vs A2 noise
+643,parent-mobile,https://www.luxurymotorsport.com.br/,no visible change,auto,A vs B within A vs A2 noise
+644,parent-mobile,https://www.barollo.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+645,parent-mobile,https://www.autosaloneongaro.com/,no visible change,auto,A vs B within A vs A2 noise
+646,parent-mobile,http://janwani.in/,not assessable,auto,HTTP 404
+647,parent-mobile,https://mytrime.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+648,parent-mobile,https://muzon.fr/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+649,parent-mobile,https://www.remax1stchoicegd.com/,,manual,
+650,parent-mobile,https://pawyoga.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+651,parent-mobile,https://shopangelra.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+652,parent-mobile,https://www.prettycleanshop.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+653,parent-mobile,https://cirrusparfum.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+654,parent-mobile,https://provationlife.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+655,parent-mobile,https://www.automody.it/,no visible change,auto,A vs B within A vs A2 noise
+656,parent-mobile,https://providerdirectory.nhpri.org/,no visible change,auto,A vs B within A vs A2 noise
+657,parent-mobile,https://ww2.lifeplus.com/,,manual,
+658,parent-mobile,https://www.discexpress.se/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+659,parent-mobile,https://codeo-medical.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+660,parent-mobile,https://www.boarderclubportugal.pt/,no visible change,auto,A vs B within A vs A2 noise
+661,parent-mobile,https://www.meteofrigiliana.com/,,manual,
+662,parent-mobile,https://lw-global.com/,not assessable,auto,"load error: Page.evaluate: Execution context was destroyed, most likely because of a navigat"
+663,parent-mobile,https://piramidatour.ru/,not assessable,auto,load error: Page.goto: net::ERR_CONNECTION_TIMED_OUT at https://piramidatour.ru/
+664,parent-mobile,https://www.rogersmotors.ca/,not assessable,auto,load error: visit timed out after 90s
+665,parent-mobile,https://www.inevitaworld.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+666,parent-mobile,https://www.kaeruhome.jp/,no visible change,auto,A vs B within A vs A2 noise
+667,parent-mobile,https://www.advanceddentalspas.com/,no visible change,auto,A vs B within A vs A2 noise
+668,parent-mobile,https://www.desguacebastida.com/,no visible change,auto,A vs B within A vs A2 noise
+669,parent-mobile,https://wolomin.org/,,manual,
+670,parent-mobile,https://novedadesbibliograficas.dgb.unam.mx/,not assessable,auto,HTTP 403
+671,parent-mobile,https://www.markanthonycollections.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+672,parent-mobile,https://jurisprudencia.cplt.cl/,,manual,
+673,parent-mobile,https://associazionimolisane.it/,,manual,
+674,parent-mobile,https://busrabaking.fr/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+675,parent-mobile,https://skiracing.nastar.com/,,manual,
+676,parent-mobile,https://autokomis210.pl/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+677,parent-mobile,https://www.nlg.it/,no visible change,auto,A vs B within A vs A2 noise
+678,parent-mobile,https://pascaldesign.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+679,parent-mobile,https://bridgesetsound.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+680,parent-mobile,https://mepaper.thesandeshwahak.com/,not assessable,auto,load error: Page.goto: Timeout 30000ms exceeded.
+681,parent-mobile,https://morraceramics.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+682,parent-mobile,https://liderlimpeza.com.br/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+683,parent-mobile,https://occasions-automobiles.nc/,no visible change,auto,A vs B within A vs A2 noise
+684,parent-mobile,https://www.missouladirt.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+685,parent-mobile,https://bucknerprosthetics.com/,,manual,
+686,parent-mobile,https://laufart-rheingau.de/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+687,parent-mobile,https://www.stardustskateshop.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+688,parent-mobile,https://gacmotor.ao/,no visible change,auto,A vs B within A vs A2 noise
+689,parent-mobile,https://honeywallholistic.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+690,parent-mobile,https://lukstalsi.lv/,no visible change,auto,A vs B within A vs A2 noise
+691,parent-mobile,https://epaper.loksatya.com/,,manual,
+692,parent-mobile,https://kilinclar.nl/,,manual,
+693,parent-mobile,https://eip.everrich.com.tw/,no visible change,auto,A vs B within A vs A2 noise
+694,parent-mobile,https://lovulovu.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+695,parent-mobile,https://maulkorb-factory.de/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+696,parent-mobile,https://www.stairwaystudio.ca/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+697,parent-mobile,https://v-fe.lehrplan.ch/,no visible change,auto,A vs B within A vs A2 noise
+698,parent-mobile,https://central-cars.pl/,no visible change,auto,A vs B within A vs A2 noise
+699,parent-mobile,https://fallentimbermeadery.ca/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+700,parent-mobile,https://sportsnutritionexperts.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+701,parent-mobile,https://thejapanesecar.com/,no visible change,auto,A vs B within A vs A2 noise
+702,parent-mobile,https://tigerfriday.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+703,parent-mobile,https://boneandbusk.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+704,parent-mobile,https://galisagrace.co.uk/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+705,parent-mobile,https://dkautomobiles.pl/,no visible change,auto,A vs B within A vs A2 noise
+706,parent-mobile,https://careers.quakerhoughton.com/,no visible change,auto,A vs B within A vs A2 noise
+707,parent-mobile,https://keonline.biz/,no visible change,auto,A vs B within A vs A2 noise
+708,parent-mobile,https://platinum-book.com/,no visible change,auto,A vs B within A vs A2 noise
+709,parent-mobile,https://tippliga.bien.de/,no visible change,auto,A vs B within A vs A2 noise
+710,parent-mobile,https://runningonblooms.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+711,parent-mobile,https://www.avianempire.co.nz/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+712,parent-mobile,https://prettypennyclothing.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+713,parent-mobile,https://asiatoursoriente.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+714,parent-mobile,https://www.simulasi.bmtindragiri.co.id/,no visible change,auto,A vs B within A vs A2 noise
+715,parent-mobile,https://oceangrandmaldives.com/,no visible change,auto,A vs B within A vs A2 noise
+716,parent-mobile,https://europatoursypaquetes.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+717,parent-mobile,https://www.aflorar.com.ar/,not assessable,auto,load error: Page.goto: Timeout 30000ms exceeded.
+718,parent-mobile,https://thestephumeh.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+719,parent-mobile,https://kaban.trend11.shop/,no visible change,auto,A vs B within A vs A2 noise
+720,parent-mobile,https://www.fgmotors.it/,not assessable,auto,load error: Page.goto: Timeout 30000ms exceeded.
+721,parent-mobile,https://www.savetis.com/,no visible change,auto,A vs B within A vs A2 noise
+722,parent-mobile,https://www.stjohnandmyers.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+723,parent-mobile,https://iss.surf/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+724,parent-mobile,https://594tt.lorto.shop/,,manual,
+725,parent-mobile,https://lightoftwelve.com/,not assessable,auto,HTTP 402
+726,parent-mobile,https://www.daintydiamond.co/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+727,parent-mobile,https://nuesiceramics.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+728,parent-mobile,https://stellarmy.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+729,parent-mobile,https://pickleballth.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+730,parent-mobile,https://www.1000vallemultimarcas.com.br/,not assessable,auto,load error: visit timed out after 90s
+731,parent-mobile,https://www.stratusinfosystems.com/,no visible change,auto,A vs B within A vs A2 noise
+732,parent-mobile,https://bananaprosthetics.com/,not assessable,auto,load error: visit timed out after 90s
+733,parent-mobile,https://eyelasikaustin.com/,no visible change,auto,A vs B within A vs A2 noise
+734,parent-mobile,http://revofirm2u.com/,not assessable,auto,load error: Page.goto: net::ERR_BLOCKED_BY_CLIENT at http://revofirm2u.com/
+735,parent-mobile,https://www.dartscorner.eu/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+736,parent-mobile,http://flyback.org.ru/,not assessable,auto,HTTP 404
+737,parent-mobile,https://jobs.laitram.com/,no visible change,auto,A vs B within A vs A2 noise
+738,parent-mobile,https://hadi-car.pl/,no visible change,auto,A vs B within A vs A2 noise
+739,parent-mobile,https://jeffshustergolf.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+740,parent-mobile,https://thailandstore.org/,,manual,
+741,parent-mobile,https://kakao-talker.com/,no visible change,auto,A vs B within A vs A2 noise
+742,parent-mobile,https://www.keonline.biz/,no visible change,auto,A vs B within A vs A2 noise
+743,parent-mobile,https://www.idauto.it/,no visible change,auto,A vs B within A vs A2 noise
+744,parent-mobile,https://garagemotors.cl/,not assessable,auto,load error: visit timed out after 90s
+745,parent-mobile,https://tarnowskie-gory.honesta.biz/,no visible change,auto,A vs B within A vs A2 noise
+746,parent-mobile,https://canderelresidential.com/,no visible change,auto,A vs B within A vs A2 noise
+747,parent-mobile,https://www.darkstarcoffee.com.au/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+748,parent-mobile,https://idc-klaassen.com/,,manual,
+749,parent-mobile,https://loyalty.ink/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+750,parent-mobile,https://www.plantamed.com.br/,no visible change,auto,A vs B within A vs A2 noise
+751,parent-mobile,https://www.racestaff.com/,no visible change,auto,A vs B within A vs A2 noise
+752,parent-mobile,https://ag.lehrplan.ch/,no visible change,auto,A vs B within A vs A2 noise
+753,parent-mobile,https://xn--24-pj4a7b0en2i7305b3xwah62b.com/,no visible change,auto,A vs B within A vs A2 noise
+754,parent-mobile,https://stcroixrodfactorystore.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+755,parent-mobile,https://koreatrade.bg/,not assessable,auto,load error: visit timed out after 90s
+756,parent-mobile,https://pitstop-spb.ru/,no visible change,auto,A vs B within A vs A2 noise
+757,parent-mobile,https://biblioteca.ui1.es/,,manual,
+758,parent-mobile,https://lapenderieduparadis.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+759,parent-mobile,https://www.northdentalprofessionals.com/,,manual,
+760,parent-mobile,https://bavariaused.com/,no visible change,auto,A vs B within A vs A2 noise
+761,parent-mobile,http://www.revofirm2u.com/,not assessable,auto,load error: Page.goto: net::ERR_BLOCKED_BY_CLIENT at http://www.revofirm2u.com/
+762,parent-mobile,https://giving.nyulangone.org/,no visible change,auto,A vs B within A vs A2 noise
+763,parent-mobile,https://beugellozebh.nl/,no visible change,auto,nsfw; change not triggered in B (no <input> inside <select>)
+764,parent-mobile,https://www.estetestudio.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+765,parent-mobile,https://tanjayr.is/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+766,parent-mobile,https://kakeskreations.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+767,parent-mobile,https://www.scribecycling.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+768,parent-mobile,https://festivaltravelandtours.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+769,parent-mobile,https://seminarios.fipe.org.br/,no visible change,auto,A vs B within A vs A2 noise
+770,parent-mobile,https://www.yeaah.com/,,manual,
+771,parent-mobile,https://thebakingschool.co.uk/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+772,parent-mobile,http://www.joyglobal.cc/,no visible change,auto,nsfw; change not triggered in B (no <input> inside <select>)
+773,parent-mobile,https://fghhhffdf.blogspot.com/,,manual,
+774,parent-mobile,https://www.hirednurses.com/,no visible change,auto,A vs B within A vs A2 noise
+775,parent-mobile,https://drinkcollab.ca/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+776,parent-mobile,http://epaper.viraatvaibhav.com/,,manual,
+777,parent-mobile,https://www.forum.bg-nacionalisti.org/,no visible change,auto,A vs B within A vs A2 noise
+778,parent-mobile,https://occai.co.za/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+779,parent-mobile,https://www.proudemployers.org.uk/,no visible change,auto,A vs B within A vs A2 noise
+780,parent-mobile,https://junyouexport.com/,no visible change,auto,A vs B within A vs A2 noise
+781,parent-mobile,https://www.millenium-collectivites.fr/,no visible change,auto,A vs B within A vs A2 noise
+782,parent-mobile,http://jpg4us.net/,not assessable,auto,nsfw; load error: Page.goto: net::ERR_BLOCKED_BY_CLIENT at http://jpg4us.net/
+783,parent-mobile,https://emma-wallace.com/,no visible change,auto,nsfw; change not triggered in B (no <input> inside <select>)
+784,parent-mobile,https://www.edi-senegal.org/,no visible change,auto,nsfw; A vs B within A vs A2 noise
+785,parent-mobile,https://h-h-auto.com/,not assessable,auto,"load error: Page.evaluate: Execution context was destroyed, most likely because of a navigat"
+786,parent-mobile,https://autobahnprestigemotors.com/,not assessable,auto,load error: visit timed out after 90s
+787,parent-mobile,https://autoaza.ro/,,manual,
+788,parent-mobile,https://594.porat.fun/,,manual,
+789,parent-mobile,https://www.sidelinesitaliangrille.com/,no visible change,auto,A vs B within A vs A2 noise
+790,parent-mobile,http://www.jpg4us.net/,not assessable,auto,nsfw; load error: Page.goto: net::ERR_BLOCKED_BY_CLIENT at http://www.jpg4us.net/
+791,parent-mobile,http://www.josimarautomoveis.com.br/,no visible change,auto,A vs B within A vs A2 noise
+792,parent-mobile,https://epaper.viraatvaibhav.com/,,manual,
+793,parent-mobile,https://remax-franquicias.com.ar/,no visible change,auto,A vs B within A vs A2 noise
+794,parent-mobile,https://library.mu-varna.bg/,no visible change,auto,A vs B within A vs A2 noise
+795,parent-mobile,https://because.coffee/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+796,parent-mobile,https://mylifeordebt.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+797,parent-mobile,https://cultbike-luebeck.de/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+798,parent-mobile,https://www.aeqv.ch/,,manual,
+799,parent-mobile,https://www.yummygums.com/,no visible change,auto,nsfw; A vs B within A vs A2 noise
+800,parent-mobile,http://www.frma.jp/,not assessable,auto,load error: Page.goto: net::ERR_BLOCKED_BY_CLIENT at http://www.frma.jp/
+801,parent-mobile,https://www.dsglandscaping.com.au/,no visible change,auto,A vs B within A vs A2 noise
+802,parent-mobile,https://www.janescrivner.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+803,parent-mobile,https://modcph.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+804,parent-mobile,https://bicwclass.in/,not assessable,auto,"load error: Page.evaluate: Execution context was destroyed, most likely because of a navigat"
+805,parent-mobile,https://www.locallinklc.ie/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+806,parent-mobile,https://www.schaukaeserei-wiggensbach.de/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+807,parent-mobile,https://skiftkalender.no/,,manual,
+808,parent-mobile,https://domkiholenderskie5.pl/,no visible change,auto,A vs B within A vs A2 noise
+809,parent-mobile,https://www.zouka.com/,no visible change,auto,A vs B within A vs A2 noise
+810,parent-mobile,https://www.pooky.co.jp/,no visible change,auto,A vs B within A vs A2 noise
+811,parent-mobile,https://sufavorita.com/,,manual,
+812,parent-mobile,https://shop.mahoneysgarden.com/,no visible change,auto,A vs B within A vs A2 noise
+813,parent-mobile,https://mawa-hangers.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+814,parent-mobile,https://ismylova.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+815,parent-mobile,https://www.clubebits.com.br/,,manual,
+816,parent-mobile,https://historyofthedominatrix.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+817,parent-mobile,https://uni.ukrainemarket.online/,no visible change,auto,A vs B within A vs A2 noise
+818,parent-mobile,https://igarz.com/,,manual,
+819,parent-mobile,https://www.criarsinmorirenelintento.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+820,parent-mobile,https://www.treffpunktwald.de/,,manual,
+821,parent-mobile,https://www.ahmedabadprojects.com/,,manual,
+822,parent-mobile,https://spikedcandy.com/,,manual,
+823,parent-mobile,https://myhhcreations.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+824,parent-mobile,https://automaroc.ma/,no visible change,auto,A vs B within A vs A2 noise
+825,parent-mobile,https://www.wikdmotorsports.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+826,parent-mobile,https://bpm.ptotinc.com/,no visible change,auto,A vs B within A vs A2 noise
+827,parent-mobile,https://suffolkweddingdressstudio.co.uk/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+828,parent-mobile,https://dccardetailing.cl/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+829,parent-mobile,https://www.dartscorner.nl/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+830,parent-mobile,https://apc.iapi-inaiap.org/,not assessable,auto,load error: visit timed out after 90s
+831,parent-mobile,https://pottyosotthon.hu/,no visible change,auto,A vs B within A vs A2 noise
+832,parent-mobile,https://imobiliariachopinzinho.com.br/,,manual,nsfw
+833,parent-mobile,https://wanaromah.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+834,parent-mobile,https://www.whiteproperty.com.bd/,no visible change,auto,A vs B within A vs A2 noise
+835,parent-mobile,https://terracottaceramica.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+836,parent-mobile,https://www.widopan.de/,,manual,
+837,parent-mobile,https://quillionz.com/,no visible change,auto,A vs B within A vs A2 noise
+838,parent-mobile,https://www.adostats.nl/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+839,parent-mobile,https://www.ulsterceramicspotterysupplies.co.uk/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+840,parent-mobile,https://www.awsco.co/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+841,parent-mobile,https://www.kindredpost.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+842,parent-mobile,https://www.dazzlecarsbexhill.co.uk/,no visible change,auto,A vs B within A vs A2 noise
+843,parent-mobile,https://pozyczki.promesa.name/,no visible change,auto,A vs B within A vs A2 noise
+844,parent-mobile,https://autojulek.pl/,no visible change,auto,A vs B within A vs A2 noise
+845,parent-mobile,https://getafix.ph/,no visible change,auto,A vs B within A vs A2 noise
+846,parent-mobile,https://skaistumarituali.lv/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+847,parent-mobile,https://bryansk.rusokna.ru/,,manual,
+848,parent-mobile,https://www.skyvillasbaner.com/,not assessable,auto,load error: visit timed out after 90s
+849,parent-mobile,https://global-auto.fr/,no visible change,auto,A vs B within A vs A2 noise
+850,parent-mobile,https://thecreativestudio.ph/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+851,parent-mobile,https://reservations.lanecounty.org/,no visible change,auto,A vs B within A vs A2 noise
+852,parent-mobile,https://www.cartoriodamooca.com.br/,not assessable,auto,load error: visit timed out after 90s
+853,parent-mobile,https://www.giftcityproject.com/,,manual,
+854,parent-mobile,https://nasteagioielli.it/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+855,parent-mobile,https://mburgoscars.es/,not assessable,auto,load error: visit timed out after 90s
+856,parent-mobile,https://www.thewineilove.com/,no visible change,auto,A vs B within A vs A2 noise
+857,parent-mobile,https://www.bybiehl.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+858,parent-mobile,https://jobs.intralox.com/,no visible change,auto,A vs B within A vs A2 noise
+859,parent-mobile,https://belairauto.ma/,no visible change,auto,A vs B within A vs A2 noise
+860,parent-mobile,https://www.bettyandlola.com.au/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+861,parent-mobile,https://bookbond.in/,no visible change,auto,A vs B within A vs A2 noise
+862,parent-mobile,https://thaiblessingco.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+863,parent-mobile,https://wgoclearwater.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+864,parent-mobile,https://wlodi-cars.pl/,no visible change,auto,A vs B within A vs A2 noise
+865,parent-mobile,https://huffmansauto.com/,no visible change,auto,A vs B within A vs A2 noise
+866,parent-mobile,https://www.thesilverneedle.com/,,manual,
+867,parent-mobile,https://www.metaluveikals.lv/,,manual,
+868,parent-mobile,https://cahilljewellers.ie/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+869,parent-mobile,https://meteoistan.es/,not assessable,auto,load error: visit timed out after 90s
+870,parent-mobile,https://precisionraceworks.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+871,parent-mobile,https://www.gardenhousedesign.co.uk/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+872,parent-mobile,https://semauto.es/,,manual,
+873,parent-mobile,https://itafos.com/,no visible change,auto,A vs B within A vs A2 noise
+874,parent-mobile,https://citycenter-rosario.com.ar/,no visible change,auto,A vs B within A vs A2 noise
+875,parent-mobile,https://stazionemeteovillaputzu.altervista.org/,not assessable,auto,load error: Page.goto: Timeout 30000ms exceeded.
+876,parent-mobile,https://toursatierrasanta.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+877,parent-mobile,https://autoborys.com/,no visible change,auto,A vs B within A vs A2 noise
+878,parent-mobile,https://www.bleyer.at/,,manual,
+879,parent-mobile,https://rtc.ma/,,manual,
+880,parent-mobile,https://www.sofiasimon.mx/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+881,parent-mobile,https://www.mylamination.com/,,manual,
+882,parent-mobile,https://www.aguasmarinasalgarrobo.cl/,no visible change,auto,A vs B within A vs A2 noise
+883,parent-mobile,https://www.triciasgems.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+884,parent-mobile,https://saunainthewoods.co.uk/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+885,parent-mobile,https://freedmandiamonds.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+886,parent-mobile,https://costomo.net/,,manual,
+887,parent-mobile,https://interlaw.by/,no visible change,auto,A vs B within A vs A2 noise
+888,parent-mobile,https://www.gavicar.pt/,no visible change,auto,A vs B within A vs A2 noise
+889,parent-mobile,https://teonmycard.lakoo.com/,no visible change,auto,A vs B within A vs A2 noise
+890,parent-mobile,https://samanngrand.com/,no visible change,auto,A vs B within A vs A2 noise
+891,parent-mobile,https://trime.hu/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+892,parent-mobile,https://www.ferizy.com/,no visible change,auto,A vs B within A vs A2 noise
+893,parent-mobile,https://www.aeropuertosenred.com/,,manual,
+894,parent-mobile,https://seminuevos.aspillagahornauer.cl/,no visible change,auto,A vs B within A vs A2 noise
+895,parent-mobile,https://sscoglobal.com/,no visible change,auto,A vs B within A vs A2 noise
+896,parent-mobile,https://craftiviti.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+897,parent-mobile,https://gamasa.mx/,,manual,
+898,parent-mobile,https://www.namdonglib.go.kr/,no visible change,auto,A vs B within A vs A2 noise
+899,parent-mobile,https://wildwoodpets.co.uk/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+900,parent-mobile,http://www.janwani.in/,not assessable,auto,HTTP 404
+901,parent-mobile,https://atoanmt.ucoz.com/,,manual,
+902,parent-mobile,https://danmartinjewelers.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+903,parent-mobile,https://www.twil.fr/,no visible change,auto,A vs B within A vs A2 noise
+904,parent-mobile,https://rockstarnails.shop/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+905,parent-mobile,https://www.elitekennelfertility.com/,no visible change,auto,A vs B within A vs A2 noise
+906,parent-mobile,https://lotruglioauto.it/,not assessable,auto,"load error: Page.evaluate: Execution context was destroyed, most likely because of a navigat"
+907,parent-mobile,https://rovetd.com/,no visible change,auto,A vs B within A vs A2 noise
+908,parent-mobile,https://www.ashesh.com.np/,,manual,
+909,parent-mobile,https://www.autoinofferta.it/,not assessable,auto,load error: visit timed out after 90s
+910,parent-mobile,https://www.gandhinagarprojects.com/,,manual,
+911,parent-mobile,https://www.sakoexpo.com.pl/,no visible change,auto,A vs B within A vs A2 noise
+912,parent-mobile,https://tahitieasycar.com/,no visible change,auto,A vs B within A vs A2 noise
+913,parent-mobile,https://www.sandsandfagans.co.uk/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+914,parent-mobile,https://www.ericatanov.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+915,parent-mobile,https://worldwidesimcardhu.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+916,parent-mobile,https://stelliumshop.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+917,parent-mobile,https://whitesport.dk/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+918,parent-mobile,https://www.sitaramorgan.co.uk/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+919,parent-mobile,https://f4customs.com/,,manual,
+920,parent-mobile,https://www.digitalnafyzika.sk/,no visible change,auto,A vs B within A vs A2 noise
+921,parent-mobile,https://usedcarscy.com/,,manual,
+922,parent-mobile,https://noteandaccord.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+923,parent-mobile,https://southworthlibrary.org/,no visible change,auto,A vs B within A vs A2 noise
+924,parent-mobile,https://www.tecneum.eu/,no visible change,auto,A vs B within A vs A2 noise
+925,parent-mobile,https://pinturasytarimasideas.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+926,parent-mobile,https://www.leonards-property.co.uk/,,manual,
+927,parent-mobile,https://maisonharleen.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+928,parent-mobile,https://www.thelandofsalt.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+929,parent-mobile,https://teastincture.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+930,parent-mobile,https://plantamed.com.br/,no visible change,auto,A vs B within A vs A2 noise
+931,parent-mobile,https://www.fotokassa.no/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+932,parent-mobile,https://aeirtherapy.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+933,parent-mobile,https://platinumautojapan.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+934,parent-mobile,https://aeqv.ch/,,manual,
+935,parent-mobile,https://www.sktm.in/,,manual,
+936,parent-mobile,https://www.world-topics.com/,,manual,
+937,parent-mobile,https://www.laughinggoatfiber.com/,no visible change,auto,nsfw; change not triggered in B (no <input> inside <select>)
+938,parent-mobile,https://www.li1l.tokyo/,,manual,
+939,parent-mobile,https://zavidovo-golf.ru/,no visible change,auto,A vs B within A vs A2 noise
+940,parent-mobile,https://www.caribbeanjobsonline.com/,,manual,
+941,parent-mobile,https://www.mylamination.it/,no visible change,auto,A vs B within A vs A2 noise
+942,parent-mobile,https://zipshina.ru/,,manual,
+943,parent-mobile,https://trime.sk/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+944,parent-mobile,https://pollinestudio.it/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+945,parent-mobile,https://festivalagents.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+946,parent-mobile,https://fromchinawithlove.tv/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+947,parent-mobile,https://inevita.sk/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+948,parent-mobile,https://www.onlynew.in/,,manual,
+949,parent-mobile,https://loudmouthldn.co.uk/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+950,parent-mobile,https://www.inventmyidea.com/,no visible change,auto,A vs B within A vs A2 noise
+951,parent-mobile,https://www.tailswagnh.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+952,parent-mobile,https://randoludo.blog4ever.com/,no visible change,auto,A vs B within A vs A2 noise
+953,parent-mobile,https://iltc.edu.sa/,no visible change,auto,A vs B within A vs A2 noise
+954,parent-mobile,https://www.thailandstore.org/,no visible change,auto,A vs B within A vs A2 noise
+955,parent-mobile,https://guijostudios.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+956,parent-mobile,https://smokehouse734.com/,no visible change,auto,nsfw; A vs B within A vs A2 noise
+957,parent-mobile,https://gangwhoohospital.vn/,,manual,
+958,parent-mobile,https://ferizy.com/,no visible change,auto,A vs B within A vs A2 noise
+959,parent-mobile,https://santabarbara.camava.com/,no visible change,auto,A vs B within A vs A2 noise
+960,parent-mobile,https://www.tofasteam.com/,,manual,
+961,parent-mobile,https://autoaddicts.co.za/,no visible change,auto,A vs B within A vs A2 noise
+962,parent-mobile,https://www.swarmsim.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+963,parent-mobile,https://goldfutter.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+964,parent-mobile,https://pandharpur.bank.in/,,manual,
+965,parent-mobile,https://thelittlestore.co/,,manual,
+966,parent-mobile,https://the-chinese-tea-company.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+967,parent-mobile,https://lesjumelles.be/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+968,parent-mobile,https://ajrsportusa.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+969,parent-mobile,https://wildculturemushrooms.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+970,parent-mobile,https://woodlandsauna.co.uk/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+971,parent-mobile,https://arturogallegosclinica.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+972,parent-mobile,https://www.intesasanpaolobanka.ba/,no visible change,auto,A vs B within A vs A2 noise
+973,parent-mobile,https://trainings.realplatform.org/,no visible change,auto,A vs B within A vs A2 noise
+974,parent-mobile,https://jhpneisson.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+975,parent-mobile,https://popsknife.supplies/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+976,parent-mobile,https://www.syskevasia.net/,,manual,
+977,parent-mobile,https://grillandchill.fr/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+978,parent-mobile,https://epaper.navjivanindia.com/,,manual,
+979,parent-mobile,https://importsbyrigi.com/,not assessable,auto,"load error: Page.evaluate: Execution context was destroyed, most likely because of a navigat"
+980,parent-mobile,https://toursfestival.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+981,parent-mobile,https://trapedoutapparel.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+982,parent-mobile,https://www.132favoric.com/,no visible change,auto,A vs B within A vs A2 noise
+983,parent-mobile,https://hislibris.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+984,parent-mobile,https://gualterhelicopteros.com.br/,no visible change,auto,A vs B within A vs A2 noise
+985,parent-mobile,https://thefelteddesert.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+986,parent-mobile,https://epaper.eisamay.com/,not assessable,auto,load error: Page.goto: Timeout 30000ms exceeded.
+987,parent-mobile,https://child-support-fund-portal-2025-moni.blogspot.com/,,manual,
+988,parent-mobile,https://partybros.com.au/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+989,parent-mobile,https://hdbikeandsport.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+990,parent-mobile,https://dhfishingadventures.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+991,parent-mobile,https://www.live360communities.com/,no visible change,auto,A vs B within A vs A2 noise
+992,parent-mobile,https://belladunya.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+993,parent-mobile,https://rigit-adventures.co.za/,no visible change,auto,A vs B within A vs A2 noise
+994,parent-mobile,https://sapancaguide.com/,no visible change,auto,A vs B within A vs A2 noise
+995,parent-mobile,https://cumbria-travel.com/,no visible change,auto,A vs B within A vs A2 noise
+996,parent-mobile,http://www.dailynewsactivist.com/,not assessable,auto,HTTP 404
+997,parent-mobile,https://www.comprorocasalecchiodireno.it/,no visible change,auto,A vs B within A vs A2 noise
+998,parent-mobile,https://northeastcolors.net/,,manual,
+999,parent-mobile,https://sultanstreasure.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+1000,parent-mobile,https://mazelabcoffee.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+1001,parent-mobile,https://betterbushcraft.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+1002,parent-mobile,https://googoohair.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+1003,parent-mobile,https://vetclinicuae.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+1004,parent-mobile,https://trxhire.com.au/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+1005,parent-mobile,https://www.gwbands.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+1006,parent-mobile,https://wonderlabmtl.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+1007,parent-mobile,https://risingembers.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+1008,parent-mobile,https://dvdgameexchange.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+1009,parent-mobile,https://www.citycenter-rosario.com.ar/,no visible change,auto,A vs B within A vs A2 noise
+1010,parent-mobile,https://www.kliemannsland.de/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+1011,parent-mobile,https://www.jr-ticket.com/,not assessable,auto,HTTP 403
+1012,parent-mobile,https://mystiquesenchantments.com/,no visible change,auto,change not triggered in B (no <input> inside <select>)
+1013,parent-mobile,https://autosopcuracao.com/,,manual,
