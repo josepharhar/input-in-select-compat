@@ -1,0 +1,50 @@
+diff --git a/third_party/blink/renderer/core/html/parser/html_tree_builder.cc b/third_party/blink/renderer/core/html/parser/html_tree_builder.cc
+index 4d1fb8df055ed..b08ac23eab205 100644
+--- a/third_party/blink/renderer/core/html/parser/html_tree_builder.cc
++++ b/third_party/blink/renderer/core/html/parser/html_tree_builder.cc
+@@ -902,24 +902,16 @@ void HTMLTreeBuilder::ProcessStartTagForInBody(AtomicHTMLToken* token) {
+                             WebFeature::kInputParsedParentOptionOrOptgroup);
+         }
+ 
++        // When InputInSelect is enabled, <input> never closes <select>.
+         bool add_select_end_tag =
+             !RuntimeEnabledFeatures::InputInSelectEnabled();
+ 
+-        if (parent_select || parent_option_optgroup) {
+-          if (RuntimeEnabledFeatures::InputInSelectEnabled()) {
+-            add_select_end_tag = true;
+-          }
+-        } else {
++        if (!parent_select && !parent_option_optgroup) {
+           UseCounter::Count(tree_.CurrentNode()->GetDocument(),
+                             WebFeature::kInputParsedAncestorSelect);
+         }
+ 
+         if (parent_select && !parent_select->WasOptionInserted()) {
+-          if (RuntimeEnabledFeatures::InputInSelectEnabled()) {
+-            // <input> tags are allowed inside <select> if they come before any
+-            // of the <option>s.
+-            add_select_end_tag = false;
+-          }
+           UseCounter::Count(tree_.CurrentNode()->GetDocument(),
+                             WebFeature::kInputParsedParentSelectNoOptions);
+         }
+diff --git a/third_party/blink/renderer/platform/runtime_enabled_features.json5 b/third_party/blink/renderer/platform/runtime_enabled_features.json5
+index 2eefaa4d2d875..4b17f0d912968 100644
+--- a/third_party/blink/renderer/platform/runtime_enabled_features.json5
++++ b/third_party/blink/renderer/platform/runtime_enabled_features.json5
+@@ -3946,12 +3946,8 @@
+     },
+     {
+       // The HTML parser inserts a </select> end tag before inserting <input>
+-      // when parsing inside of a <select> tag. We want to allow <input> inside
+-      // <select>, but it isn't web compatible enough. This flag allows <input>
+-      // inside <select> but only if there is another open tag in between the
+-      // <input> and the <select>, like <select><div><input>.
+-      // For now, this flag also makes <input> close <select> like it used to
+-      // when the <input> is put directly within an <option> or <optgroup>.
++      // when parsing inside of a <select> tag. This flag stops inserting the
++      // </select> end tag, allowing <input> anywhere inside <select>.
+       name: "InputInSelect",
+       status: "experimental",
+     },
